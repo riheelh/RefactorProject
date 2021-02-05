@@ -6,6 +6,7 @@ This repository manages the Horiseon website source code which has been refactor
 
 With the support of semantic layouts on HTML5, it helped to deploy accessibly features for search optimiazation and easy naviagations through the website.
 
+**Live URL:** https://riheelh.github.io/RefactorProject/
 
 ![code refactor demo](./assets/01-html-css-git-homework-demo.png)
 
