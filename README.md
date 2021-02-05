@@ -5,7 +5,7 @@
 As part of learning process, this repository manages the Horiseon website source code which has been refactored to follow the industry standards to provide context to search engines. This was done thankfully to semantic layouts of HTML5 to enforce accessibly features for search optimiazation and easy naviagations through the site sections.
 
 
-![code refactor demo](./Assets/01-html-css-git-homework-demo.png)
+![code refactor demo](./assets/01-html-css-git-homework-demo.png)
 
 
 ## Installation
