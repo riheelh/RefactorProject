@@ -2,7 +2,7 @@
 
 ## Description 
 
-This repository manages the Horiseon website source code which has been refactored to follow the industry standards and provide context and meaning to search engines and screen readers. 
+This repository manages refactored source code of the Horiseon website following the industry standards to provide context to search engines and screen readers. 
 
 With the support of semantic layouts on HTML5, it helped to deploy accessibly features for search optimiazation and easy naviagations through the website.
 
@@ -23,4 +23,4 @@ Follow below steps to copy and publish the website on your own Github Pages:
 
 4. Refresh the page and wait for few minutes, the link will be ready and highlighted in Green.
 
-5. Copy the link and test on Interent Browser.
+5. Copy the link and test on Internet Browser.
